@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-SpitCheck is an innovative project proposed for the Nagpur Metro at Compex 2024, organized by VGDWA in association with Nagpur Police, Nagpur Metro, and MSME. SpitCheck utilizes the YOLOv8 model to detect instances of spitting within the metro premises. The system not only identifies the person involved but also takes immediate action by making their metro ticket invalid.
+SpitCheck is an innovative project proposed for the Nagpur Metro at Compex 2024, organized by VCMDWA (Vidarbha computer & media dealers wellfare association) in association with Nagpur Police, Nagpur Metro, and MSME. SpitCheck utilizes the YOLOv8 model to detect instances of spitting within the metro premises. The system not only identifies the person involved but also takes immediate action by making their metro ticket invalid.
 
 ## How SpitCheck Works
 
@@ -23,6 +23,11 @@ SpitCheck is an innovative project proposed for the Nagpur Metro at Compex 2024,
 ## Project Recognition
 
 SpitCheck was shortlisted for the finals at Compex 2024, showcasing its effectiveness in addressing hygiene and cleanliness concerns within metro stations.
+
+## Sample Prediction Image
+
+![SpitCheck Prediction](./assets/spit.png)
+
 
 ## Dependencies
 
